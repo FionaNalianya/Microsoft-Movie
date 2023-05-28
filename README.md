@@ -27,11 +27,12 @@ The following bar plot shows the movies with excellent average ratings
 The following bar plot shows the movie genres with the highest ratings
 ![image](https://github.com/FionaNalianya/Microsoft-Movie/assets/87811071/b9bf7989-e467-4560-ae67-eeab72c165de)
 
-The following bar plot of the movies with highest popularity
-![image](https://github.com/FionaNalianya/Microsoft-Movie/assets/87811071/b6fbb202-8e4b-4f36-9ce4-68cf418e803b)
-
 The following bar plot shows the movie genres with the longest runtime minutes
 ![image](https://github.com/FionaNalianya/Microsoft-Movie/assets/87811071/77eb3abd-b293-4c76-b661-020923182afd)
+
+The following bar plot of the movies with highest popularity
+
+![image](https://github.com/FionaNalianya/Microsoft-Movie/assets/87811071/b6fbb202-8e4b-4f36-9ce4-68cf418e803b)
 
 ## Conclusion
 - The genres with the highest ratings are: Documentaries, Comedy, Drama, Crime, History and Adventure.
