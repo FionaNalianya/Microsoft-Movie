@@ -41,3 +41,6 @@ The following bar plot of the movies with highest popularity
 - The total gross acquired after movie production is $771,092,074,906 which is generally greater than the production cost which was $182,640,411,532.
 - Most long movies are of the documentary genre.
 - There is a positive correlation between high movie ratings and long runtime minutes.
+
+
+https://docs.google.com/presentation/d/1CLPjCSaLtuoYwtxWgtD3z5XgT_5a-tSPVrIingDoTUo/edit?usp=sharing
